@@ -1,0 +1,20 @@
+{
+  "name": "@smdev/bracketjs",
+  "version": "1.0.0",
+  "description": "Library that allows you to generate tournament brackets with different formats. Including custom formats.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soymichelt/bracketjs.git"
+  },
+  "keywords": [],
+  "author": "Michel Roberto Traña Tablada (mtraatabladaa94@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soymichelt/bracketjs/issues"
+  },
+  "homepage": "https://github.com/soymichelt/bracketjs#readme"
+}
